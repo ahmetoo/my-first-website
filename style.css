@@ -19,9 +19,14 @@ p {
 
 #lowerfooter i {font-size:40px;color:yellow;margin:16px}
 
+
 h5 {font-size:30px;color:#FAFF00}
 
 h6 {font-size:30px;color:#FAFF00}
+
+.memberBenefits i {font-size:200px;color:#FAFF00;}
+.memberBenefits p {font-size:24px;color:#FF0000;margin-top:12px}
+.mBBox {background-color:black;padding:15px; border-radius:15px}
 
 
 
