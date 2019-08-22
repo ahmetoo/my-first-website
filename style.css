@@ -28,6 +28,13 @@ h6 {font-size:30px;color:#FAFF00}
 .memberBenefits p {font-size:24px;color:#FF0000;margin-top:12px}
 .mBBox {background-color:black;padding:15px; border-radius:15px}
 
+.pBox{border:#fff 1px solid; border-radius:8px;margin:8px}
+.pBox img {z-index:-1;border-radius:8px}
+.pBox button{z-index:2;position:absolute;right:25$;padding:10px;margin-top:-32px;border-radius:8px;
+background-color:#FAFF00;border:2px #FF0000 solid; color:#FF0000}
+.pBox button:hover {background-color:#FF0000;border:2px #FAFF00 solid;color:#FAFF00}
+
+
 
 
 
